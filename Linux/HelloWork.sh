@@ -1,5 +1,2 @@
-
-C
-C
-C
-
+#!/bin/bash
+echo "Hello World"
